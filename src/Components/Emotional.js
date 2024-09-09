@@ -9,8 +9,8 @@ const Emotional = () => {
       <div className="flex">
         <div>
         <div className="text-green-800 font-bold  m-2 p-4">MENTAL HEALTH</div>
-    <div className="text-green-800 font-bold m-3 p-2 text-3xl">Depression</div>
-    <div className="text-xl m-4">Depression is more than just feeling sad. It drains your optimism, energy, and drive. It can seem like there’s no way out. But no matter how bad you feel, there’s always hope. Read on to learn about symptoms, treatment, and recovery.</div>
+    <div className="text-green-800 font-bold m-3 p-2 text-3xl">Emotional Intelligence</div>
+    <div className="text-xl m-4">Emotional intelligence (also known as emotional quotient or EQ) is the ability to understand, use, and manage your own emotions in positive ways to relieve stress, communicate effectively, empathize with others, overcome challenges and defuse conflict.</div>
     </div>
     <div>
     <div><img src={Emotionall} alt="Emotional" className= "m-12 py-4 self-center rounded-2xl"/></div>

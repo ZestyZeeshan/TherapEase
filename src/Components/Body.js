@@ -10,7 +10,7 @@ import {Link} from 'react-router-dom'
 const Body = () =>{
     return (
         <div>
-          <div className="fixed bottom-10 right-10 rounded-full"><a href="http://localhost:8501/"><img src="https://cdn-icons-png.flaticon.com/512/1698/1698535.png" className="h-32 w-32" /></a></div>
+          <div className="fixed bottom-10 right-10 rounded-full"><a href="https://chatbotmentalhealth-azwzceqxqujarx4n4ataro.streamlit.app/"><img src="https://cdn-icons-png.flaticon.com/512/1698/1698535.png" className="h-32 w-32" /></a></div>
 
           <div className="fixed bottom-10 left-10 rounded-full"><a href="http://10.60.88.56:8503/" className="px-5 py-3 rounded-lg bg-red-600 text-white font-semibold text-2xl">Health Status</a></div>
 
@@ -100,8 +100,9 @@ const Body = () =>{
             </div>
 
             </div>
+            <div className="text-center"> © 2024 TharapEase. All Rights Reserved. </div>
            
-       // </div>
+        </div>
     )
 }
 
