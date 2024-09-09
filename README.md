@@ -2,7 +2,7 @@
 ![Screenshot 2024-05-22 151923](https://github.com/ZestyZeeshan/TherapEase/assets/141507225/62ad7d65-31cf-425f-a3e6-870b1dd65943)
 
 #Please visit our webpage once
-https://therapease-mentalhealth.netlify.app/
+(https://therap-ease-six.vercel.app/)
 
 
 
