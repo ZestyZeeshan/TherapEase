@@ -208,8 +208,8 @@ const Body = () =>{
     <Link to="/BipolarDisorder" className="bg-sky-500 hover:bg-sky-600 text-white font-bold py-4 px-6 rounded-lg shadow-md border border-gray-700 flex justify-center items-center">
       <h3 className="text-xl">Bipolar Disorder</h3>
     </Link>
-    <Link to="/BipolarDisorder" className="bg-sky-500 hover:bg-sky-600 text-white font-bold py-4 px-6 rounded-lg shadow-md border border-gray-700 flex justify-center items-center">
-      <h3 className="text-xl">Bipolar Disorder</h3>
+    <Link to="/Schizophrenia" className="bg-sky-500 hover:bg-sky-600 text-white font-bold py-4 px-6 rounded-lg shadow-md border border-gray-700 flex justify-center items-center">
+      <h3 className="text-xl">schizophrenia</h3>
     </Link>
     <Link to="/Sleep" className="bg-sky-500 hover:bg-sky-600 text-white font-bold py-4 px-6 rounded-lg shadow-md border border-gray-700 flex justify-center items-center">
       <h3 className="text-xl">Sleep</h3>

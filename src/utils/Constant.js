@@ -18,6 +18,8 @@ export const Strss  = "https://www.helpguide.org/wp-content/uploads/2023/02/Stre
 
 export const Bipolar  = "https://www.helpguide.org/wp-content/uploads/2023/02/Bipolar-Disorder-1-768x512.jpeg"
 
+export const schizophrenia = "https://media.post.rvohealth.io/wp-content/uploads/sites/4/2021/05/butterflies-hope-paper-nature-732x549-thumbnail-732x549.jpg"
+
 export const ptsd = "https://www.helpguide.org/wp-content/uploads/2023/02/PTSD-and-Trauma-1-768x512.jpeg"
 
 export const suicid = "https://www.helpguide.org/wp-content/uploads/2023/02/Suicide-1.jpeg"

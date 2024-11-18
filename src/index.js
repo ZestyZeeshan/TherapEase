@@ -18,6 +18,7 @@ import BipolarDisorder from './Components/BipolarDisorder';
 import Sleep from './Components/Sleep';
 import Suicide from './Components/Suicide';
 import Emotional from './Components/Emotional';
+import Schizophrenia from './Components/Schizophrenia';
 import FirebaseContextProvider from './utils/Firebase';
 
 //import Addiction from './Components/Addiction';
@@ -85,6 +86,10 @@ const appRouter=createBrowserRouter([
       {
         path: "/Emotional",
         element: <Emotional/>
+      },
+      {
+        path: "/Schizophrenia",
+        element: <Schizophrenia/>
       }
       
       // {
