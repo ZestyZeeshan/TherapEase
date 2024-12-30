@@ -11,7 +11,7 @@ const Body = () =>{
     return (
         <div>
          <div className="fixed bottom-10 right-10 rounded-full">
-      <a href="https://chatbotmentalhealth-azwzceqxqujarx4n4ataro.streamlit.app/">
+      <a href="https://chatbot-therapease.streamlit.app/">
         <img
           src="https://cdn-icons-png.flaticon.com/512/1698/1698535.png"
           alt="Chatbot"
